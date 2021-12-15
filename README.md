@@ -1,8 +1,3 @@
-
-<a href="https://github.com/Wandrys-dev/Wandrys-dev">
-    <img width="100%" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/dev2.gif">
-</a>
-
 <h2>Hello World, I'm Koh Zhi Zhang! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
