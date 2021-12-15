@@ -29,7 +29,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-- 🎓 I am an Undergraduate Engineering Student and currently studying Mechatronics! 🛠
+- 🎓 &nbsp; I am an Undergraduate Engineering Student and currently studying Mechatronics! 🛠
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web/App Development, Database Management System, and Familier with Data Science & ML.
@@ -76,8 +76,8 @@ I love automations, coffee, and the robotics. I am working in Matlab and Python.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kohzhizhang/"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-matematico_do_planalto_central-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:zhizhangkoh.kzz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wandrys@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/kohzhizhang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Koh_Zhi_Zhang-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:zhizhangkoh.kzz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhizhangkoh.kzz@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Koh Zhi Zhang](https://github.com/efyzk1)
@@ -135,7 +135,7 @@ class ComputerEngineer:
         self.name    = "Koh Zhi Zhang"
         self.role    = "Engineering Student/Intern"
         self.contact = "zhizhangkoh.kzz@gmail.com"
-        self.work    = "Engineering exciter,Data Scientist, Software, Web Developer"
+        self.work    = "Engineering Exciter,Data Scientist, Software, Web Developer"
         self.learn   = "Robotics Automation and Programming"
     
     def getCity():
@@ -150,7 +150,7 @@ me = EngieeringStudent()
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wandrys-dev&theme=react-dark)](https://github.com/efyzk1/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=efyzk1&theme=react-dark)](https://github.com/efyzk1/github-readme-activity-graph)
 
 
 
